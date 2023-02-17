@@ -22,3 +22,5 @@ tgcrypto
 youtube-search
 youtube-search-python
 yt-dlp
+Flask==2.2.2
+gunicorn==20.1.0
