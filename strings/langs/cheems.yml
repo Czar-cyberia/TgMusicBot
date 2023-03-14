@@ -215,13 +215,13 @@ song_11 : "Uploamding stamrted\n\nUploading speemd coumld be slomw, Pleamse homl
 queue_1 : "Pleamse waimt..Fetching queuem.."
 queue_2 : "No tramcks insimde queuem." 
 queue_3 : "<u>**Queued Tramcks:</u>**  [Chemckout morem queuemd tramcks from herem]({0})" 
-queue_4 :  "⏳ Addemd to Queuem at **#{0}\n\n💡Timtle:** {1}\n**⏱Dumration:** {2}\n👤**Amdded by:** {3}"
+queue_4 :  "⏳ Addemd to Queuem at **#{0}\n\n💡Timtle:** {1}\n**⏱Dumration:** {2}\n👤**Amdded by:** {3} \n\n **JOIN** => @THE_GODLIKE_X"
 
 # All Streaming Lines
-stream_1 : "📡 **Stamrted Streaming** 💡\n\n👤**Remquested By:** {0}\n🔦**Imnformation: **[Hemre]({1})"
-stream_2 : "📡 **Stamrted Streaming via URL ** 💡\n\n👤**Remquested By:** {0}"
-stream_3 : "📡 **Stamrted Streaming** 💡\n\n**🏷Timtle:** {0}\n⌛️**Dumration**: {1}\n👤**Remquested By:** {2}" 
-stream_4 : "📡 **Stamrted Streaming** 💡\n\n**🏷Timtle:** [{0}]({1})\n⌛️**Dumration**: {2}\n👤**Remquested by:** {3}" 
+stream_1 : "📡 **Stamrted Streaming** 💡\n\n👤**Remquested By:** {0}\n🔦**Imnformation: **[Hemre]({1}) \n\n **JOIN** => @THE_GODLIKE_X"
+stream_2 : "📡 **Stamrted Streaming via URL ** 💡\n\n👤**Remquested By:** {0} \n\n **JOIN** => @THE_GODLIKE_X"
+stream_3 : "📡 **Stamrted Streaming** 💡\n\n**🏷Timtle:** {0}\n⌛️**Dumration**: {1}\n👤**Remquested By:** {2} \n\n **JOIN** => @THE_GODLIKE_X" 
+stream_4 : "📡 **Stamrted Streaming** 💡\n\n**🏷Timtle:** [{0}]({1})\n⌛️**Dumration**: {2}\n👤**Remquested by:** {3} \n\n **JOIN** => @THE_GODLIKE_X" 
 
 # Inline Buttons
 
